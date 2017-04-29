@@ -59,3 +59,8 @@ video#bgvid {
     background: url(assets/images/bg.jpg) no-repeat;
     background-size: cover; 
 }
+
+
+footer {
+    margin-top:30px;
+}
