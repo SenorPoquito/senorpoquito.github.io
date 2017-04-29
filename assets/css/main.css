@@ -1,10 +1,38 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    font-size: 10pt; 
+    }
+
+
 body {
-    padding-top:10px;
-    color:white;
+    padding-top:10vh;
+    color:white;    
+    font-family: 'Inconsolata', monospace;
+
+}
+
+#brandheader{
+    font-size:4.0em;
 }
 
 .maincontent{
-    padding-top:10vh;
+    padding-top:30px;
+    padding-left:15px;
+}
+
+.maincontent li {
+    font-size:1.2em;    
+}
+
+.featuretextheader{
+    font-weight:bold;
+    font-size:1.3em;
+}
+
+.joinbutton{
+    margin-top:30px;
+    font-size:1.4em;
 }
 
 .featuretext{
