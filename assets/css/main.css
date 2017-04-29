@@ -1,5 +1,14 @@
 body {
+    padding-top:10px;
     color:white;
+}
+
+.maincontent{
+    padding-top:10vh;
+}
+
+.featuretext{
+    font-size:large;
 }
 
 video#bgvid { 
