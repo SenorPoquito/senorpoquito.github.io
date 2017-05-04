@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
 
 * { 
     margin: 0; 
@@ -10,7 +10,7 @@
 body {
     padding-top:10vh;
     color:white;    
-    font-family: 'Noto Sans KR','Inconsolata', monospace;
+    font-family: 'Jeju Gothic','Inconsolata', monospace;
 
 }
 
